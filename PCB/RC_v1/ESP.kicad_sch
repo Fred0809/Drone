@@ -4370,7 +4370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.8752 68.58 0)
 			(effects
 				(font
@@ -4555,7 +4555,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "57b11be6-19cb-4716-9caf-b7353ca408e2")
 		(property "Reference" "J14"
 			(at 198.628 88.392 0)
@@ -5340,7 +5340,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "792c6b2e-a3be-48d0-a03d-f2a3c3158c63")
 		(property "Reference" "J16"
 			(at 198.628 104.902 0)
@@ -6024,7 +6024,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a8d975c8-3717-4736-b25b-65054346f285")
 		(property "Reference" "J17"
 			(at 198.882 113.03 0)
@@ -6090,7 +6090,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bb2fbcfd-4cac-4d0f-89c7-a6506d8302b8")
 		(property "Reference" "J15"
 			(at 198.628 97.282 0)
