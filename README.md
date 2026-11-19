@@ -22,4 +22,6 @@ PDB:
 
 RC:
 
-(photo on the way)
+<p align="center">
+  <img src="RC/PCB/PCB_3d_view.png" width="500">
+</p>
