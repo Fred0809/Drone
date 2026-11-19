@@ -5,11 +5,21 @@ This is a one shared repository for four separate ones I've been working on prev
 ESC:
 
 <p align="center">
-  <img src="./FCU_board.png" width="500">
+  <img src="ESC/PCB/ESC_v3/ESC_board_v3.png" width="500">
 </p>
 
 FCU:
 
+<p align="center">
+  <img src="FCU/FCU_board.png" width="500">
+</p>
+
 PDB:
 
+<p align="center">
+  <img src="PDB/PCB/PDU_v2/PDB_board.png" width="500">
+</p>
+
 RC:
+
+(photo on the way)
